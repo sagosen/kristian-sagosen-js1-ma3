@@ -1,0 +1,26 @@
+h1 {
+    font-size: 30px;
+    color: brown;
+}
+body {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 1px;
+    background-color: sandybrown;
+    
+}
+
+.rawgData {
+    font-size: 20px;
+    color: black;
+}
